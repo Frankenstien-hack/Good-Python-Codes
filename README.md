@@ -1,3 +1,3 @@
-# Good-Python-Codes
+#Zomato
 
-Add some new and good Python Codes
+Basic layout of zomato app in Django.
